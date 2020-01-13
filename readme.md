@@ -2,6 +2,8 @@
 <p>composer update</p>
 <p>create database</p>
 <p>php artisan migrate</p>
+<p>Register First</p>
+<p>Testing Example CRUD Mahasiswa</p>
 
 <p><b>By AdePutra<b></p>
 
